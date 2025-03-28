@@ -5,7 +5,7 @@
 
 
 fn main() {
-    let answer = square(3);
+    let answer = square(3000);
     println!("The square of 3 is {}", answer);
 }
 
