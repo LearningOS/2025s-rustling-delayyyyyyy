@@ -1,7 +1,7 @@
 // variables1.rs
 //
 // Make me compile!
-//
+// test.
 // Execute `rustlings hint variables1` or use the `hint` watch subcommand for a
 // hint.
 
